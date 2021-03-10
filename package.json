@@ -1,0 +1,7 @@
+{
+  "name": "01-github-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Frederico Stevanato Rocha <fredzstevanato@gmail.com>",
+  "license": "MIT"
+}
